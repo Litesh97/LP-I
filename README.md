@@ -1,6 +1,7 @@
 <strong>All the assignments performed in Laboratory-Pratice-I realted to Aritificial Intelligence (AI) and High Performance Computing (HPC)</strong>
 
 <table>
+
 <tr>
 	<td>HPC 1</td>
 	<td>a) Implement Parallel Reduction using Min, Max, Sum and Average operations.<br>
@@ -30,10 +31,10 @@ For Bubble Sort and Merger Sort, based on existing sequential algorithms, design
 <td>HPC 4</td>
 	<td>Parallel Search Algorithm- <br>
 Design and implement parallel algorithm utilizing all resources available. for <br>
- Binary Search for Sorted Array <br>
- Depth-First Search ( tree or an undirected graph ) OR <br>
- Breadth-First Search ( tree or an undirected graph) OR <br>
- Best-First Search that ( traversal of graph to reach a target in the shortest possible path) 
+1. Binary Search for Sorted Array <br>
+2. Depth-First Search ( tree or an undirected graph ) OR <br>
+3. Breadth-First Search ( tree or an undirected graph) OR <br>
+4. Best-First Search that ( traversal of graph to reach a target in the shortest possible path) 
 	</td>
 </tr>
 
@@ -55,8 +56,25 @@ Design and implement parallel algorithm utilizing all resources available. for <
 	<td>Use Heuristic Search Techniques to Implement Best first search (Best-Solution but not always optimal) and A* algorithm (Always gives optimal solution). 
 </tr>
 
-<td>AI 5</td>
-	<td>Use Heuristic Search Techniques to Implement Best first search (Best-Solution but not always optimal) and A* algorithm (Always gives optimal solution). 
+<td>DA 1</td>
+	<td> 
+		Classification on IRIS dataset
+	</td>
+</tr>
+
+<td>DA 2</td>
+	<td> 
+		Download Pima Indians Diabetes dataset. Use Naive Bayes‟ Algorithm for classification 
+	</td>
+</tr>
+
+<td>DA 3</td>
+	<td> Write a Hadoop program that counts the number of occurrences of each word in a text file. 
+	</td>
+</tr>
+
+<td>DA 4</td>
+	<td> Trip History Analysis: Use trip history dataset that is from a bike sharing service in the United States. The data is provided quarter-wise from 2010 (Q4) onwards. Each file has 7 columns. Predict the class of user. Sample Test data set available here https://www.capitalbikeshare.com/trip-history-data 
 	</td>
 </tr>
 
